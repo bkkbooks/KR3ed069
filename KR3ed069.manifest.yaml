@@ -1,0 +1,97 @@
+canonical_identifier: bkk:krp/KR3ed069/v1
+canonical_location: https://kanripo.org/bkk/KR3ed069/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 重訂痧疫指迷
+  identifiers:
+    krp: KR3ed069
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed069.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ed069_000.yaml, hash: 'sha256:76ed50fc2ef636355021c368a21770aa504ef80a9c4ad36138e4410c49d24069'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ed069_000.markers.yaml, hash: 'sha256:dd4801d934cf143646b77f785349ae4f5fc76bf64673466285d967a2424299e3'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ed069_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 578
+  label: 急救溯原
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed069_jc_000-d3.h1s1
+    span:
+    - body
+    - 578
+    - 1024
+  label: 辨證要訣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed069_jc_000-d4.h1s1
+    span:
+    - body
+    - 1024
+    - 1838
+  label: 急救閉症方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed069_jc_000-d5.h1s1
+    span:
+    - body
+    - 1838
+    - 2192
+  label: 定亂丸此方用以祛病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed069_jc_000-d6.h1s1
+    span:
+    - body
+    - 2192
+    - 3549
+  label: 治時行霍亂簡便章程
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed069_jc_000-d7.h1s1
+    span:
+    - body
+    - 3549
+    - 6116
+  label: 摘錄霍亂論守險預防要法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed069_jc_000-d8.h1s1
+    span:
+    - body
+    - 6116
+    - 6413
+  label: 霍亂轉筋外沽法
+  type: section
+  level: 1
+hash: sha256:4e3785f99a3e16b796b40f8bc3ac0a1e4f55acd1c2b5884acab34635eb33e0f2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

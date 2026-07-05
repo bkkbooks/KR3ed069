@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed069_000.yaml, hash: 'sha256:76ed50fc2ef636355021c368a21770aa504ef80a9c4ad36138e4410c49d24069'}
+  - {seq: 0, filename: KR3ed069_000.yaml, hash: 'sha256:2a92bfc7c6604bf8c56d6969cceeef69bb4fd805b8790e5fe408e95d3642f256'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed069_000.markers.yaml, hash: 'sha256:dd4801d934cf143646b77f785349ae4f5fc76bf64673466285d967a2424299e3'}
+  - {seq: 0, role: markers, filename: assets/KR3ed069_000.markers.yaml, hash: 'sha256:aacacd20cea2278bd9e8744c212c9dc517dc90e6291e2aa30bbfcdbc9d8e991b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -91,7 +91,4 @@ table_of_contents:
   label: 霍亂轉筋外沽法
   type: section
   level: 1
-hash: sha256:4e3785f99a3e16b796b40f8bc3ac0a1e4f55acd1c2b5884acab34635eb33e0f2
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:c0abf37618592bba3c5a79749ab87f6b321f654f86d2f5e0267885ce3fe66ade

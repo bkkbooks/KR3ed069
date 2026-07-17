@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ed069_000.yaml, hash: 'sha256:f0c079345babd44e19b31608e5f0bf9173449de16d92f750f412b0e85d344f42'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed069_000.markers.yaml, hash: 'sha256:24af39b6b5b79536c9abad8d5bf3d9463ea93e0764e46f3765579f4b8af585b3'}
+  - {seq: 0, role: markers, filename: assets/KR3ed069_000.markers.yaml, hash: 'sha256:60f5824debe092683d98a4c8c9aee59f71888446861d6bc3d865567e45aaba09'}
 table_of_contents:
 - ref:
     seq: 0
@@ -91,7 +91,7 @@ table_of_contents:
   label: 霍亂轉筋外沽法
   type: section
   level: 1
-hash: sha256:8e3e4307f21fc471f38060f875cc7070dca1330c436457b38b5ca8ad9ccd1ccc
+hash: sha256:7814d3c188af0947728339a2dc463174ae9033cd142f160b984538603d80b11a
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

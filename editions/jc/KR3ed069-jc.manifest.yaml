@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ed069_000-jc.yaml, hash: 'sha256:2a92bfc7c6604bf8c56d6969cceeef69bb4fd805b8790e5fe408e95d3642f256'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed069_000-jc.markers.yaml, hash: 'sha256:19fe05c1845696338faac01fc93c5fb6b08f51a752c3a147e71d4d8d0a784655'}
+  - {seq: 0, role: markers, filename: assets/KR3ed069_000-jc.markers.yaml, hash: 'sha256:6f2228aa96c4c39ad04f768c9f18cc8707f12d2c1df4cd192560fd6e7953a1c2'}
 table_of_contents:
 - ref:
     seq: 0
@@ -91,4 +91,4 @@ table_of_contents:
   label: 霍亂轉筋外沽法
   type: section
   level: 1
-hash: sha256:07f9a616cbb58c7915a0c463584b76246998ede7df942dcf6c4ee9924e2d3498
+hash: sha256:6b31a558089a9f17e9ffb7bf21e9d36777cb17bc8aef8b0f7e758de81b2281e4
